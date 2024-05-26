@@ -2,6 +2,7 @@
 Module 13 Challenge UWA Cybersecurity Bootcamp 2024
 
 Cloud Security
+
 Over the last week, you created a highly available web server for XCorp's Red Team to use for testing and training. Now, your lead cloud administrator has asked for a diagram of the network that you created to keep for documentation and company records. Your task is to use draw.ioLinks to an external site. to create a detailed diagram of your cloud infrastructure.
 
 Cloud Recap
